@@ -74,7 +74,7 @@ Behavior:
 
 ## License
 
-MIT License
+[MIT License](https://github.com/Uchida16104/NetForce?tab=MIT-1-ov-file)
 
 ---
 
