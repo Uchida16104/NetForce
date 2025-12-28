@@ -46,17 +46,18 @@ Required commands must be available in the system PATH:
    ````
 
 3. Launch NetForce:
-
-   ```sh
-   java -jar NetForce.jar
-   ```
-
-   or
+* GUI
 
    ```sh
    java NetForceGUI
    ```
 
+* CUI
+
+  ```sh
+  java NetForceApp
+  ```
+  
 4. Click **"Start Offline + Network Recovery"** in the GUI.
 
 Behavior:
